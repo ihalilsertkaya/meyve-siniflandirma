@@ -61,8 +61,8 @@ streamlit run app.py
 ## 📷 Örnek Kullanım
 
 1. Uygulama açılır
-2. Görsel yüklenir: ![örnek](Meyveler/muz.jpeg)
-3. Model sonucu verir: `Banana`
+2. Görsel yüklenir (örnek görselleri Meyve klasöründe bulabilirsiniz.)
+3. Model sonucu verir
 
 ---
 
