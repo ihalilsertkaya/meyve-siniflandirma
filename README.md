@@ -61,7 +61,7 @@ streamlit run app.py
 ## 📷 Örnek Kullanım
 
 1. Uygulama açılır
-2. Görsel yüklenir: ![örnek](https://static.ticimax.cloud/cdn-cgi/image/width=-,quality=85/11919/uploads/urunresimleri/buyuk/muz-chiquita-46af.png)
+2. Görsel yüklenir: ![örnek](Meyveler/muz.jpeg)
 3. Model sonucu verir: `Banana`
 
 ---
@@ -72,3 +72,14 @@ streamlit run app.py
 - Eğer görsel veri setin dışında ise tahminler hatalı olabilir.
 
 ---
+
+## 🖼️ Ekran Görüntüleri
+
+### Ana Sayfa
+![Ana Sayfa](EkranGoruntuleri/ProjeSayfasi.png)
+
+### Muz Tahmini
+![Elma Tahmin Sonucu](EkranGoruntuleri/MuzTahminSayfasi.png)
+
+### Elma Tahmini
+![Tahmin Sonucu](EkranGoruntuleri/ElmaTahminSayfasi.png)
