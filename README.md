@@ -54,7 +54,6 @@ streamlit run app.py
 - ✅ Görsel yükleyerek sınıflandırma
 - ✅ Kullanıcı dostu ve sade arayüz
 - ✅ Anında tahmin sonucu
-- ✅ README dosyasını uygulama içinde görme
 - ✅ Model eğitimi gerekmeden hazır modeli kullanır
 
 ---
@@ -62,7 +61,7 @@ streamlit run app.py
 ## 📷 Örnek Kullanım
 
 1. Uygulama açılır
-2. Görsel yüklenir: ![örnek](https://storage.googleapis.com/download.tensorflow.org/example_images/banana.jpg)
+2. Görsel yüklenir: ![örnek](https://static.ticimax.cloud/cdn-cgi/image/width=-,quality=85/11919/uploads/urunresimleri/buyuk/muz-chiquita-46af.png)
 3. Model sonucu verir: `Banana`
 
 ---
@@ -71,6 +70,5 @@ streamlit run app.py
 
 - Kullanılan model `mobilenet_v2`, ImageNet sınıflarında eğitildiği için sadece yaygın meyveleri tanıyabilir.
 - Eğer görsel veri setin dışında ise tahminler hatalı olabilir.
-- Daha doğru sonuçlar için Fruits-360 gibi özelleşmiş veri setleri ile eğitilmiş modeller tercih edilebilir.
 
 ---

@@ -1,0 +1,6 @@
+tensorflow>=2.11.0
+tensorflow-hub
+streamlit
+pillow
+requests
+huggingface_hub
